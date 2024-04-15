@@ -1,0 +1,9 @@
+[submodule "doctor-chat-service"]
+	path = doctor-chat-service
+	url = https://github.com/Dorian-Mayamba/doctor-chat-service.git
+[submodule "doctor-appointment-management"]
+	path = doctor-appointment-management
+	url = https://github.com/Dorian-Mayamba/doctor-appointment-management.git
+[submodule "doctor-appointment-management-frontend"]
+	path = doctor-appointment-management-frontend
+	url = https://github.com/Dorian-Mayamba/doctor-appointment-management-frontend.git
